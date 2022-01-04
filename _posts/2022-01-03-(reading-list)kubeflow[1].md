@@ -5,4 +5,18 @@ tag: 读书清单
 ---
 要开始搭建分布式训练平台了。开始调研kubeflow相关的内容，这里留作记录。
 
+# Introduction
+Kubeflow是一个基于K8s存在之上的一个分布式训练调度引擎（maybe有误）。它主要的工作是打造了一个基于云原生的AI环境。
+它包括了：
+1. 一个管理型的Dashboard：Central Dashboard --> 类似与K8s的Dashboard
+2. 一个方便用户在系统上进行编码调试的工具： Kubeflow Notebooks
+3. 一个工作流引擎：Kubeflow Pipelines --> 类似于Airflow
+4. 提供Serverless inferencing的工具：KFServing --> 将训练推向生产化
+5. 自动调参框架：Katib --> AutoML的工具
+6. 不同深度学习框架的Operators：针对不同的深度学习框架提供不同的能力
+7. 多用户管理的组件：Multi-Tenancy，多租户管理
+
+
+除以上的核心组件之外，还提供了各类插件。后续会详细介绍。为了能够直观的理解，贴上一张官方的架构图：
+![Kubeflow Architecture](../imgs/kubeflow-overview-platform-diagram.svg)
 
