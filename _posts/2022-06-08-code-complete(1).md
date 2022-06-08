@@ -3,7 +3,7 @@ title: 代码大全(Chapter 1)
 published: true
 tag: ReadingList
 ---
-# 代码大全阅读笔记
+# 代码大全阅读笔记（第一章）
 作者在第一章节讨论了这本书讨论的边际范围 - "construction".
 
 关注点在: "Coding and Debuging", "Detailed Design", "Construction Planning", "Unit Testing", "Integration", "Integration Tesing", "Other activites in roughly".
@@ -20,7 +20,7 @@ tag: ReadingList
 9. Integrating software components that wre created separately.
 10. Tuning code to make if faster and use fewer resources.
 
-Imoriving software quality and developer productivity is important.
+Imporiving software quality and developer productivity is important.
  
 阅读的几个关注点：
 1. Construction is a large part of software development. Construction typically takes 30 to 80 percent of the total time spent on a project.
