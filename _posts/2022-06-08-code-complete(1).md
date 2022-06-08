@@ -11,7 +11,7 @@ tag: ReadingList
 有一些具体的例子，如:
 1. Verifying that the groundwork has been laid so that construction can proceed successfully.
 2. Determining how your code will be tested.
-3. Desiging and writing classes and routines.
+3. Designing and writing classes and routines.
 4. Creating and naming variables and named constants.
 5. Selectig control structures and organizing blocks of statements.
 6. Unit tesing, integration testing, and debugging your own code
@@ -20,7 +20,7 @@ tag: ReadingList
 9. Integrating software components that wre created separately.
 10. Tuning code to make if faster and use fewer resources.
 
-Imporiving software quality and developer productivity is important.
+Imporving software quality and developer productivity is important.
  
 阅读的几个关注点：
 1. Construction is a large part of software development. Construction typically takes 30 to 80 percent of the total time spent on a project.
