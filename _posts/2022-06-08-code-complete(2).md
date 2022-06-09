@@ -32,7 +32,7 @@ Use them to give you insight into your programming problems and processes. Use t
 
 ### Common Software Metaphors
 #### Software Penmanship: Writing Code
-For an individual;s work or for small-scale projects, the letter-writing metaphor worker adequately, but for other purposes it leaves the party eraly -- it doesn't describe software development fully or adequately.
+For an individual's work or for small-scale projects, the letter-writing metaphor worker adequately, but for other purposes it leaves the party eraly -- it doesn't describe software development fully or adequately.
 Software project will most likely involve many people with many different responsibilities.
 
 In software construction, trying to create truly original work is often less effective than focusing on the reuse of design ideas, code, and test cases from previous projects.
